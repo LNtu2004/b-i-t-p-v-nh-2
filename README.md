@@ -30,3 +30,6 @@ Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. l�
 ![image](https://github.com/user-attachments/assets/cd45501a-e3da-4e91-bca6-21357f6ddbd7)
 Tạo database có tên QLSV123
 ![image](https://github.com/user-attachments/assets/6fedbe5f-8c76-44cc-b0b6-2a56e8b83bb2)
+Trong phần QLSV123 tìm tables chọn new rồi chọn table
+![image](https://github.com/user-attachments/assets/83fb4f4f-efa9-49c5-be34-7a7e20e233a4)
+
