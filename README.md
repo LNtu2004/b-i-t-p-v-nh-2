@@ -34,5 +34,7 @@ Trong phần QLSV123 tìm tables chọn new rồi chọn table
 ![image](https://github.com/user-attachments/assets/83fb4f4f-efa9-49c5-be34-7a7e20e233a4)
 tạo ra các thuộc tính trong bảng như : masv , hoten , NgaySinh 
 ![image](https://github.com/user-attachments/assets/771cc24e-f489-4870-b16e-66fabc815243)
+cho masv làm khóa chính 
+![image](https://github.com/user-attachments/assets/5ee277be-b0e2-4de7-9be7-926d6f0af33a)
 
 
