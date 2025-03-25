@@ -52,3 +52,5 @@ nhấn vô hướng mũi tên đang chỉ
 ![image](https://github.com/user-attachments/assets/70f12ce2-f31c-4f5c-868e-45217dd372aa)
 # 5.Bảng GiaoVien
 ![image](https://github.com/user-attachments/assets/2fdb1790-2313-4a9d-ae18-3b61f0183dc2)
+# 6.Bảng BoMon
+![image](https://github.com/user-attachments/assets/20a8d36e-e2ec-472a-8e76-b319044d0872)
