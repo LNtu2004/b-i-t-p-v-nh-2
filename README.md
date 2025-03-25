@@ -46,3 +46,5 @@ nhấn vô hướng mũi tên đang chỉ
 ![image](https://github.com/user-attachments/assets/fda9b890-f3ab-411a-8589-a7d6a62a4159)
 # 2.Bảng Lop 
 ![image](https://github.com/user-attachments/assets/f4657e12-e6f2-4d05-87c6-6d1104c00d76)
+# 3.Bảng GVCN 
+![image](https://github.com/user-attachments/assets/41614f4b-b7f3-4958-93b6-dec1d989badb)
