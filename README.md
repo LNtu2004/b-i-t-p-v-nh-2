@@ -38,7 +38,8 @@ cho masv làm khóa chính
 ![image](https://github.com/user-attachments/assets/5ee277be-b0e2-4de7-9be7-926d6f0af33a)
 như này 
 ![image](https://github.com/user-attachments/assets/514d851d-0388-4935-898f-386ec4090c90)
-tạo khóa ngoại chọn # Foregin key 
+tạo khóa ngoại chọn (Foregin key) chọn Relationship... 
 ![image](https://github.com/user-attachments/assets/927303df-accc-4e1c-8d55-34754ab346a4)
-
+Nó sẽ ra như này xong ta chọn add 
+![image](https://github.com/user-attachments/assets/cd85abc9-fcab-4ec8-b033-45c47f8f4a35)
 
