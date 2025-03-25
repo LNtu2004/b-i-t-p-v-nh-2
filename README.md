@@ -32,7 +32,7 @@ Tạo database có tên QLSV123
 ![image](https://github.com/user-attachments/assets/6fedbe5f-8c76-44cc-b0b6-2a56e8b83bb2)
 Trong phần QLSV123 tìm tables chọn new rồi chọn table
 ![image](https://github.com/user-attachments/assets/83fb4f4f-efa9-49c5-be34-7a7e20e233a4)
-tạo ra các thuộc tính trong bảng như : masv , hoten , NgaySinh 
+tạo ra Bảng sinhvien với các thuộc tính trong bảng như : masv , hoten , NgaySinh 
 ![image](https://github.com/user-attachments/assets/771cc24e-f489-4870-b16e-66fabc815243)
 cho masv làm khóa chính 
 ![image](https://github.com/user-attachments/assets/5ee277be-b0e2-4de7-9be7-926d6f0af33a)
@@ -44,4 +44,5 @@ Nó sẽ ra như này xong ta chọn add
 ![image](https://github.com/user-attachments/assets/cd85abc9-fcab-4ec8-b033-45c47f8f4a35)
 nhấn vô hướng mũi tên đang chỉ
 ![image](https://github.com/user-attachments/assets/fda9b890-f3ab-411a-8589-a7d6a62a4159)
-
+# 2.Bảng Lop 
+![image](https://github.com/user-attachments/assets/f4657e12-e6f2-4d05-87c6-6d1104c00d76)
