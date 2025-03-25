@@ -28,3 +28,5 @@ Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. l�
 # BÀI LÀM 
 Đầu tiên ta bấm chuột phải vào database chọn new database
 ![image](https://github.com/user-attachments/assets/cd45501a-e3da-4e91-bca6-21357f6ddbd7)
+Tạo database có tên QLSV123
+![image](https://github.com/user-attachments/assets/6fedbe5f-8c76-44cc-b0b6-2a56e8b83bb2)
