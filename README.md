@@ -54,3 +54,11 @@ nhấn vô hướng mũi tên đang chỉ
 ![image](https://github.com/user-attachments/assets/2fdb1790-2313-4a9d-ae18-3b61f0183dc2)
 # 6.Bảng BoMon
 ![image](https://github.com/user-attachments/assets/20a8d36e-e2ec-472a-8e76-b319044d0872)
+# 7.Bảng Khoa
+![image](https://github.com/user-attachments/assets/c3c2a4a3-7b61-4d78-b9c4-9b103c1ffc53)
+# 8.Bảng MonHoc
+![image](https://github.com/user-attachments/assets/aab3c4ab-432f-4d39-8a8e-b63ed45d0fd7)
+# 9.Bảng LopHP
+![image](https://github.com/user-attachments/assets/0740f246-f93f-46e5-827a-b30a20679d8b)
+# 10 Bảng DKMH
+![image](https://github.com/user-attachments/assets/7adf4151-5bc3-4908-ad33-87ec40d66df6)
