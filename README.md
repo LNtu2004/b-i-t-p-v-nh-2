@@ -48,3 +48,7 @@ nhấn vô hướng mũi tên đang chỉ
 ![image](https://github.com/user-attachments/assets/f4657e12-e6f2-4d05-87c6-6d1104c00d76)
 # 3.Bảng GVCN 
 ![image](https://github.com/user-attachments/assets/41614f4b-b7f3-4958-93b6-dec1d989badb)
+# 4.LopSV
+![image](https://github.com/user-attachments/assets/70f12ce2-f31c-4f5c-868e-45217dd372aa)
+# 5.Bảng GiaoVien
+![image](https://github.com/user-attachments/assets/2fdb1790-2313-4a9d-ae18-3b61f0183dc2)
