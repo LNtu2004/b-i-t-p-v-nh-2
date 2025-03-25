@@ -25,14 +25,23 @@ Tạo database mới, mô tả các tham số(nếu có) trong quá trình.
 Tạo các bảng dữ liệu với các trường như mô tả, chọn kiểu dữ liệu phù hợp với thực tế (tự tìm hiểu)
 Mỗi bảng cần thiết lập PK, FK(s) và CK(s) nếu cần thiết. (chú ý dấu # và @: # là chỉ PK, @ chỉ FK)
 Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương. lưu tất cả các lệnh SQL trong file: Script_DML.sql
+HÌNH THỨC LÀM BÀI:
+Tạo repository mới, tạo file readme.md (có hướng dẫn trên zalo group)
+Sinh viên thao tác trên máy tính cá nhân, chụp màn hình quá trình làm, chỉ cần chụp active window, thi thoảng chụp full màn hình để thấy sự cá nhân hoá.
+Hình sau khi chụp paste trực tiếp vào file readme trên github, cần mô tả các phần trên ảnh để tỏ ra là hiểu hết!
+upload các file liên quan: Script_DML.sql
+Update link của repository vào cột bài tập 2 trên file excel online của thầy (đã ghim link trên zalo group)
 # BÀI LÀM 
-Đầu tiên ta bấm chuột phải vào database chọn new database
+# I tạo database
+1.1 Đầu tiên ta bấm chuột phải vào database chọn new database
 ![image](https://github.com/user-attachments/assets/cd45501a-e3da-4e91-bca6-21357f6ddbd7)
-Tạo database có tên QLSV123
+- Tạo database có tên QLSV123
 ![image](https://github.com/user-attachments/assets/6fedbe5f-8c76-44cc-b0b6-2a56e8b83bb2)
-Trong phần QLSV123 tìm tables chọn new rồi chọn table
+- Trong phần QLSV123 tìm tables chọn new rồi chọn table
 ![image](https://github.com/user-attachments/assets/83fb4f4f-efa9-49c5-be34-7a7e20e233a4)
-tạo ra Bảng sinhvien với các thuộc tính trong bảng như : masv , hoten , NgaySinh 
+# II 
+# 1.Bảng 
+- tạo ra Bảng sinhvien với các thuộc tính trong bảng như : masv , hoten , NgaySinh 
 ![image](https://github.com/user-attachments/assets/771cc24e-f489-4870-b16e-66fabc815243)
 cho masv làm khóa chính 
 ![image](https://github.com/user-attachments/assets/5ee277be-b0e2-4de7-9be7-926d6f0af33a)
